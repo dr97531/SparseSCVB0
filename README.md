@@ -6,3 +6,5 @@ Basic implementation of SparseSCVB0 algorithm for LDA in [Rashidul Islam, and Ja
 
 * [Julia](https://julialang.org/) (tested on v0.6.4.1)
 * Optional Julia packages: MAT and JLD (to save the generated results)
+
+The code is tested on windows and linux operating systems. It should work on any other platform.
