@@ -8,3 +8,7 @@ Basic implementation of SparseSCVB0 algorithm for LDA in [Rashidul Islam, and Ja
 * Optional Julia packages: MAT and JLD (to save the generated results)
 
 The code is tested on windows and linux operating systems. It should work on any other platform.
+
+## Data format
+
+The input is a single file, with one line per document where each word is separated by a space. Words in each document are represented by one-based dictionary indices.  The demo is provided on NIPS corpus [NIPS corpus, due to Sam Roweis](https://cs.nyu.edu/~roweis/data.html). See more in data folder where NIPS.txt and NIPSdict.txt contain the corpus and dictionary, respectively. 
