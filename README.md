@@ -19,7 +19,7 @@ To run SparseSCVB0 for LDA on NIPS corpus, simply run "runSparseSCVB0.jl" Julia 
 
 ## Author
 
-* Rashidul Islam
+* Rashidul Islam (email: islam.rashidul@umbc.edu)
 
 ## License
 
