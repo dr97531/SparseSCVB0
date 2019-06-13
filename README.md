@@ -12,3 +12,19 @@ The code is tested on windows and linux operating systems. It should work on any
 ## Data format
 
 The input is a single file, with one line per document where each word is separated by a space. Words in each document are represented by one-based dictionary indices.  The demo is provided on NIPS corpus [NIPS corpus, due to Sam Roweis](https://cs.nyu.edu/~roweis/data.html). See more in data folder where NIPS.txt and NIPSdict.txt contain the corpus and dictionary, respectively. 
+
+## To run the SparseSCVB0
+
+To run SparseSCVB0 for LDA on NIPS corpus, simply run "runSparseSCVB0.jl" Julia file.
+
+## Author
+
+* Rashidul Islam
+
+## License
+
+The code to implement SparseSCVB0 is licensed under Apache License Version 2.0.
+
+## Acknowledgments
+
+* Many part of the implementation was based on the Julia code for implementing [original SCVB0] (https://github.com/jrfoulds/Stochastic-CVB0).
