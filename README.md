@@ -27,4 +27,4 @@ The code to implement SparseSCVB0 is licensed under Apache License Version 2.0.
 
 ## Acknowledgments
 
-* Many part of the implementation was based on the Julia code for implementing [original SCVB0] (https://github.com/jrfoulds/Stochastic-CVB0).
+* Many part of the implementation was based on the Julia code for implementing [original SCVB0](https://github.com/jrfoulds/Stochastic-CVB0).
